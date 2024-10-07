@@ -1,4 +1,4 @@
-# This is a repository for Pentaho's Open Source OSGI bundles
+# This is a repository for Tahopen's Open Source OSGI bundles
 
 #### A note regarding the introduction of new dependencies:
 
