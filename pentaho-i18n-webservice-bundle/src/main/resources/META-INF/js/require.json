@@ -1,0 +1,5 @@
+{
+  "paths": {
+    "pentaho/i18n-osgi": "/@pentaho/i18n-osgi@${project.version}/js/i18n"
+  }
+}

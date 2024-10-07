@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.tahopen</groupId>
+    <artifactId>tahopen-osgi-utils-assemblies</artifactId>
+    <version>0.1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>tahopen-osgi-utils</artifactId>
+  <packaging>feature</packaging>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.tahopen</groupId>
+      <artifactId>tahopen-osgi-utils-impl</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+
+    <!-- These bundles are part of the various assemblies' lib folder and exposed from the main classloader -->
+    <dependency>
+      <groupId>org.tahopen</groupId>
+      <artifactId>tahopen-osgi-utils-api</artifactId>
+      <version>${project.version}</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.tahopen</groupId>
+      <artifactId>tahopen-capability-manager</artifactId>
+      <version>${project.version}</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.tahopen</groupId>
+      <artifactId>tahopen-service-coordinator</artifactId>
+      <version>${project.version}</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+
+    <!-- these bring a lot of transitive bundles, assume they're provided -->
+    <dependency>
+      <groupId>org.apache.karaf.bundle</groupId>
+      <artifactId>org.apache.karaf.bundle.core</artifactId>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.karaf.features</groupId>
+      <artifactId>org.apache.karaf.features.core</artifactId>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+</project>

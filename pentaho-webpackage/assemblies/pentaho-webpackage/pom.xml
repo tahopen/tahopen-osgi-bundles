@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.tahopen.webpackage</groupId>
+    <artifactId>assemblies</artifactId>
+    <version>0.1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>tahopen-webpackage</artifactId>
+  <packaging>feature</packaging>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.tahopen.webpackage</groupId>
+      <artifactId>tahopen-webpackage-archive-deployer</artifactId>
+      <version>${project.version}</version>
+      <type>xml</type>
+      <classifier>features</classifier>
+    </dependency>
+
+    <dependency>
+      <groupId>org.tahopen.webpackage</groupId>
+      <artifactId>core-impl</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.tahopen.webpackage</groupId>
+      <artifactId>http-listener-impl</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.tahopen.webpackage</groupId>
+      <artifactId>requirejs-listener-impl</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
+</project>
