@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1733608436900
+Bnd-LastModified: 1733613908317
 Build-Jdk: 11.0.9
 Built-By: marcio
 Bundle-Activator: org.pentaho.webpackage.deployer.archive.impl.osgi.Acti
