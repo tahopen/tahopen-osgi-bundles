@@ -1,0 +1,8 @@
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/listener/AbstractRetryMessageListener.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/producer/KafkaProducerFactory.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/listener/AbstractRetryMessageListenerFactory.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/listener/AbstractMessageListenerFactory.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/protobuf/KafkaProtobufDeserializer.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/protobuf/KafkaProtobufSerializer.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/producer/BaseMessageProducer.java
+/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/main/java/org/hitachivantara/spring/kafka/listener/AbstractMessageListener.java

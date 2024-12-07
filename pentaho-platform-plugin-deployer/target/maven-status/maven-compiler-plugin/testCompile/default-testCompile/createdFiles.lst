@@ -1,0 +1,17 @@
+org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlExternalResourcesHandlerTest$1.class
+org/pentaho/osgi/platform/plugin/deployer/impl/PluginZipFileProcessorTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlExternalResourcesHandlerTest.class
+org/pentaho/osgi/platform/plugin/deployer/api/PluginHandlingExceptionTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/ManifestUpdaterImplTest.class
+org/pentaho/osgi/platform/plugin/deployer/PlatformPluginFileURLHandlerTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/PluginMetadataImplTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlStaticPathsHandlerTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/handlers/PluginLibraryFileHandlerTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/PluginZipFileProcessorTest$1.class
+org/pentaho/osgi/platform/plugin/deployer/impl/PlatformDeployerBundleListenerTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlStaticPathsHandlerTest$1.class
+org/pentaho/osgi/platform/plugin/deployer/ExceptionPipedInputStreamTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/BundleStateManagerTest.class
+org/pentaho/osgi/platform/plugin/deployer/PlatformPluginDeploymentListenerTest.class
+org/pentaho/osgi/platform/plugin/deployer/PlatformPluginBundlingURLConnectionTest.class
+org/pentaho/osgi/platform/plugin/deployer/impl/PluginZipFileProcessorTest$ZipEntryMatcher.class

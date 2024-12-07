@@ -1,0 +1,4 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/main/java/org/pentaho/webpackage/deployer/archive/impl/UrlTransformer.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/main/java/org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/main/java/org/pentaho/webpackage/deployer/archive/impl/UrlHandler.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/main/java/org/pentaho/webpackage/deployer/archive/impl/osgi/Activator.java

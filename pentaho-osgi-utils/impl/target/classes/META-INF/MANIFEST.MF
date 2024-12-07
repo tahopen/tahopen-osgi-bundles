@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733613136087
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Activator: org.pentaho.osgi.impl.BeanFactoryActivator
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-Description: Parent project for Tahopen OSGI Bundles
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: tahopen-osgi-utils-impl
+Bundle-SymbolicName: tahopen-osgi-utils-impl
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.pentaho.hadoop.shim;version="0.1.0";uses:="org.osgi.
+ framework"
+Export-Service: org.pentaho.osgi.api.CipherEncryptionService
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: javax.crypto,javax.crypto.spec,org.apache.aries.proxy;ve
+ rsion="[1.0,2)",org.apache.commons.lang;version="[2.6,3)",org.apache.co
+ mmons.lang.exception;version="[2.6,3)",org.apache.karaf.bundle.core;ver
+ sion="[4.2,5)",org.apache.karaf.features;version="[4.2,5)",org.apache.k
+ araf.kar;version="[4.2,5)",org.apache.mina.util;version="[2.0,3)",org.o
+ sgi.framework;version="[1.8,2)",org.osgi.framework.wiring;version="[1.2
+ ,2)",org.osgi.service.blueprint;version="[1.0.0,2.0.0)",org.osgi.servic
+ e.blueprint.container;version="[1.0,2)",org.osgi.service.cm;version="[1
+ .5,2)",org.osgi.util.tracker;version="[1.5,2)",org.pentaho.capabilities
+ .api;version="[0.1,1)",org.pentaho.capabilities.impl;version="[0.1,1)",
+ org.pentaho.di.core,org.pentaho.hadoop.shim;version="[0.1,1)",org.penta
+ ho.osgi.api;version="[0.1,1)",org.pentaho.platform.api.engine,org.penta
+ ho.platform.engine.core.system,org.pentaho.platform.servicecoordination
+ .api;version="[0.1,1)",org.slf4j;version="[1.7,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+SCM_BRANCH: master
+Tool: Bnd-3.2.0.201605172007

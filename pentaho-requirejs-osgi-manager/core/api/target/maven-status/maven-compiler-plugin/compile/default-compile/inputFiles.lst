@@ -1,0 +1,4 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/api/src/main/java/org/pentaho/requirejs/IRequireJsPackageConfiguration.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/api/src/main/java/org/pentaho/requirejs/IRequireJsPackageConfigurationPlugin.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/api/src/main/java/org/pentaho/requirejs/IPlatformPluginRequireJsConfigurations.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/api/src/main/java/org/pentaho/requirejs/IRequireJsPackage.java

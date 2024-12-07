@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="tahopen-webpackage-archive-deployer-0.1.0.0-SNAPSHOT" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+
+  <feature name='tahopen-webpackage-archive-deployer' description='tahopen-webpackage-archive-deployer' version='0.1.0.0-SNAPSHOT'>
+  </feature>
+
+</features>

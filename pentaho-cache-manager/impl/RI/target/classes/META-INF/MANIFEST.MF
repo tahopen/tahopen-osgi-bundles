@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608606164
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Description: a Tahopen open source project
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Tahopen Cache Manager: In-Memory Cache Provider
+Bundle-SymbolicName: guava-cache-provider
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.pentaho.caching.ri;uses:="org.pentaho.caching.api,or
+ g.pentaho.caching.spi,javax.cache";version="0.1.0.0-SNAPSHOT"
+Export-Service: org.pentaho.caching.api.PentahoCacheProvidingService;pen
+ taho.cache.provider="org.pentaho.caching.ri.HeapCacheProvidingService"
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: com.google.common.base;version="[32.1,33)",com.google.co
+ mmon.cache;version="[32.1,33)",com.google.common.collect;version="[32.1
+ ,33)",javax.cache;version="[1.0,2)",javax.cache.configuration;version="
+ [1.0,2)",javax.cache.expiry;version="[1.0,2)",javax.cache.integration;v
+ ersion="[1.0,2)",javax.cache.processor;version="[1.0,2)",org.osgi.servi
+ ce.blueprint;version="[1.0.0,2.0.0)",org.pentaho.caching.api;version="[
+ 0.1,1)",org.pentaho.caching.spi;version="[0.1,1)"
+SCM_BRANCH: master
+Tool: Bnd-1.50.0

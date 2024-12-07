@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="tahopen-osgi-utils-0.1.0.0-SNAPSHOT">
+    <feature name="tahopen-osgi-utils" description="tahopen-osgi-utils" version="0.1.0.0-SNAPSHOT">
+        <details>Parent project for Tahopen OSGI Bundles</details>
+        <bundle>mvn:org.tahopen/tahopen-osgi-utils-impl/0.1.0.0-SNAPSHOT</bundle>
+        <bundle dependency="true">mvn:org.apache.aries.blueprint/org.apache.aries.blueprint.api/1.0.1</bundle>
+        <bundle dependency="true">mvn:org.apache.aries.proxy/org.apache.aries.proxy.api/1.0.1</bundle>
+        <bundle dependency="true">mvn:org.apache.aries/org.apache.aries.util/1.0.0</bundle>
+        <bundle dependency="true">mvn:org.apache.mina/mina-core/2.0.9</bundle>
+        <bundle dependency="true">mvn:commons-lang/commons-lang/2.6</bundle>
+        <bundle dependency="true">mvn:org.apache.karaf.kar/org.apache.karaf.kar.core/4.2.15</bundle>
+    </feature>
+</features>

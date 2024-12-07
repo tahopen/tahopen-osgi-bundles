@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="spring-kafka-0.1.0.0-SNAPSHOT" xmlns="http://karaf.apache.org/xmlns/features/v1.3.0">
+  <repository>mvn:org.hitachivantara.karaf.features/spring43/0.1.0.0-SNAPSHOT/xml/features</repository>
+
+  <feature name='spring-kafka' description='spring-kafka' version='0.1.0.0-SNAPSHOT'>
+    <feature dependency="true" version="[4.3.23.RELEASE_1,4.4)">spring</feature>
+    <feature dependency="true" version="[4.3.23.RELEASE_1,4.4)">spring-messaging</feature>
+    <feature dependency="true" version="[4.3.23.RELEASE_1,4.4)">spring-tx</feature>
+
+  </feature>
+
+</features>

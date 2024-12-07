@@ -1,0 +1,5 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/test/java/org/pentaho/platform/servicecoordination/impl/PhaserServiceBarrierTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/test/java/org/pentaho/platform/servicecoordination/impl/ServiceBarrierManagerIntegrationTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/test/java/org/pentaho/platform/servicecoordination/impl/ServiceBarrierManagerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/test/java/org/pentaho/platform/servicecoordination/impl/CountdownLatchServiceLifecycleManagerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/test/java/org/pentaho/platform/servicecoordination/impl/ServiceBarrierThreadTest.java

@@ -1,0 +1,9 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/impl/ServiceBarrierManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/api/IPhasedLifecycleManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/api/IPhasedLifecycleListener.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/api/IServiceBarrierManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/impl/BaseCountdownLatchLifecycleManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/impl/PhaserServiceBarrier.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/api/IPhasedLifecycleEvent.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/api/IServiceBarrier.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-service-coordinator/src/main/java/org/pentaho/platform/servicecoordination/impl/CountdownLatchLifecycleEvent.java

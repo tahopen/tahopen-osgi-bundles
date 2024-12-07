@@ -1,0 +1,11 @@
+org/pentaho/requirejs/impl/RequireJsPackageConfigurationImplTest.class
+org/pentaho/requirejs/impl/servlet/RequireJsConfigServletTest$RequireJsConfigServletForTest.class
+org/pentaho/requirejs/impl/listeners/RequireJsBundleListenerTest.class
+org/pentaho/requirejs/impl/plugins/ModulesInfoPluginConfigTest.class
+org/pentaho/requirejs/impl/types/MetaInfRequireJsonTest.class
+org/pentaho/requirejs/impl/RequireJsConfigManagerTest.class
+org/pentaho/requirejs/impl/plugins/NomAmdPackageShimTest.class
+org/pentaho/requirejs/impl/plugins/AmdPluginConfigTest.class
+org/pentaho/requirejs/impl/utils/JsonMergerTest.class
+org/pentaho/requirejs/impl/servlet/RequireJsConfigServletTest.class
+org/pentaho/requirejs/impl/utils/RequireJsDependencyResolverTest.class

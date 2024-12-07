@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608678063
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Blueprint: OSGI-INF/blueprint/beans.xml
+Bundle-Description: Parent project for Tahopen OSGI Bundles
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: tahopen-object-tunnel
+Bundle-SymbolicName: tahopen-object-tunnel
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.pentaho.osgi.objecttunnel;version="0.1.0";uses:="org
+ .reactivestreams"
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: io.reactivex.processors;version="[2.2,3)",org.osgi.servi
+ ce.blueprint;version="[1.0.0,2.0.0)",org.reactivestreams;version="[1.0,
+ 2)"
+Import-Service: org.pentaho.osgi.objecttunnel.TunnelSerializer;multiple:
+ =true;availability:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+SCM_BRANCH: master
+Tool: Bnd-3.2.0.201605172007

@@ -1,0 +1,7 @@
+org/pentaho/osgi/i18n/impl/LocalizationBundleListenerTest.class
+org/pentaho/osgi/i18n/resource/OSGIResourceBundleTest.class
+org/pentaho/osgi/i18n/settings/OSGIResourceNamingConventionTest.class
+org/pentaho/osgi/i18n/impl/LocalizationManagerTest.class
+org/pentaho/osgi/i18n/resource/OSGIResourceBundleFactoryTest.class
+org/pentaho/osgi/i18n/resource/OSGIResourceBundleCacheCallableTest.class
+org/pentaho/osgi/i18n/settings/OSGIResourceNameComparatorTest.class

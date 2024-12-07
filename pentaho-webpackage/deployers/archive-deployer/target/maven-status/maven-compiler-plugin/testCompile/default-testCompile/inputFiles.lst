@@ -1,0 +1,3 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/test/java/org/pentaho/webpackage/deployer/archive/impl/osgi/ActivatorTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/test/java/org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnectionTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/deployers/archive-deployer/src/test/java/org/pentaho/webpackage/deployer/archive/impl/UrlTransformerTest.java

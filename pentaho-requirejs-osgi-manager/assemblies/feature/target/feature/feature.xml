@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="tahopen-requirejs-osgi-manager-0.1.0.0-SNAPSHOT">
+    <feature name="tahopen-requirejs-osgi-manager" description="tahopen-requirejs-osgi-manager" version="0.1.0.0-SNAPSHOT">
+        <details>Manages the RequireJS configuration.</details>
+        <feature prerequisite="true" dependency="false">wrap</feature>
+        <bundle>mvn:org.tahopen/requirejs-manager-impl/0.1.0.0-SNAPSHOT</bundle>
+        <bundle dependency="true">mvn:org.tahopen/requirejs-manager-api/0.1.0.0-SNAPSHOT</bundle>
+        <bundle dependency="true">mvn:com.googlecode.json-simple/json-simple/1.1.1</bundle>
+        <bundle dependency="true">wrap:mvn:com.github.zafarkhaja/java-semver/0.9.0</bundle>
+    </feature>
+</features>

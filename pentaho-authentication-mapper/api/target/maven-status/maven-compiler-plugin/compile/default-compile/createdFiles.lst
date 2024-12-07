@@ -1,0 +1,5 @@
+org/pentaho/authentication/mapper/api/AuthenticationMappingManager.class
+org/pentaho/authentication/mapper/api/MappingException$Function.class
+org/pentaho/authentication/mapper/api/MappingException$Supplier.class
+org/pentaho/authentication/mapper/api/AuthenticationMappingService.class
+org/pentaho/authentication/mapper/api/MappingException.class

@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608431855
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-Description: Manages the RequireJS configuration.
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: requirejs-manager-impl
+Bundle-SymbolicName: org.tahopen.requirejs-manager-impl
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Service: javax.servlet.Servlet;osgi.http.whiteboard.servlet.patte
+ rn=/requirejs-manager/js/require-init.js
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: com.github.zafarkhaja.semver,javax.servlet;version="[3.0
+ ,4)",javax.servlet.http;version="[3.0,4)",org.json.simple;version="[1.1
+ ,2)",org.json.simple.parser;version="[1.1,2)",org.osgi.framework;versio
+ n="[1.8,2)",org.osgi.service.blueprint;version="[1.0.0,2.0.0)",org.osgi
+ .util.tracker;version="[1.5,2)",org.pentaho.requirejs
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+SCM_BRANCH: master
+Tool: Bnd-2.3.0.201405100607

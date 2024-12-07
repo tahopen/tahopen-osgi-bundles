@@ -1,0 +1,14 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/types/MetaInfRequireJson.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/servlet/RequireJsConfigServlet.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/RequireJsConfigManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/utils/JsonMerger.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/types/MetaInfPackageJson.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/utils/RequireJsDependencyResolver.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/listeners/RequireJsBundleListener.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/plugins/ModulesInfoPluginConfig.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/listeners/RequireJsPackageServiceTracker.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/plugins/NomAmdPackageShim.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/types/BundledPlatformPluginRequireJsConfigurations.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/servlet/RebuildCacheCallable.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/plugins/AmdPluginConfig.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-requirejs-osgi-manager/core/impl/src/main/java/org/pentaho/requirejs/impl/RequireJsPackageConfigurationImpl.java

@@ -1,0 +1,9 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/api/PentahoCacheProvidingService.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/api/PentahoCacheManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/impl/PentahoCacheManagerImpl.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/api/Constants.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/api/PentahoCacheTemplateConfiguration.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/impl/PentahoCacheManagerFactory.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/spi/AbstractCacheManager.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/spi/AbstractCacheProvidingService.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-cache-manager/api/src/main/java/org/pentaho/caching/api/PentahoCacheSystemConfiguration.java

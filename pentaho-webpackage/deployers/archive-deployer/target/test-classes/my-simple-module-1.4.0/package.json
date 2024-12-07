@@ -1,0 +1,11 @@
+{
+  "name": "my-simple-module",
+  "version": "1.4.0",
+  "config": {
+    "pentaho/modules": {
+      "my-simple-module_is": {
+        "base": "a_thing"
+      }
+    }
+  }
+}

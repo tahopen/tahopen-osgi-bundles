@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="tahopen-webpackage-0.1.0.0-SNAPSHOT" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+
+  <feature name='tahopen-webpackage' description='tahopen-webpackage' version='0.1.0.0-SNAPSHOT'>
+    <feature>http-whiteboard</feature>
+  </feature>
+
+</features>

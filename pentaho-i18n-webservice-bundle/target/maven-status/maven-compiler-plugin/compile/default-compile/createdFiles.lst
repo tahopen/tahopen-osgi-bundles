@@ -1,0 +1,5 @@
+org/pentaho/osgi/i18n/webservice/LocalizationWebservice$1.class
+org/pentaho/osgi/i18n/webservice/ResourceBundleWildcard.class
+org/pentaho/osgi/i18n/webservice/LocalizationWebservice.class
+org/pentaho/osgi/i18n/webservice/ResourceBundleRequest.class
+org/pentaho/osgi/i18n/webservice/ResourceBundleMessageBodyWriter.class

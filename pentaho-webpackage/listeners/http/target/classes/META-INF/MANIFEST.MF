@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608436236
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Activator: org.pentaho.webpackage.extender.http.impl.osgi.Activat
+ or
+Bundle-Description: Parent project for Tahopen OSGI Bundles
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: http-listener-impl
+Bundle-SymbolicName: org.tahopen.webpackage.http-listener-impl
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: org.osgi.framework;version="[1.8,2)",org.osgi.util.track
+ er;version="[1.5,2)",org.pentaho.webpackage.core;version="[0.1,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+SCM_BRANCH: master
+Tool: Bnd-2.3.0.201405100607

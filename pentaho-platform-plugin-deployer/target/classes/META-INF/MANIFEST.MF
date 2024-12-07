@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608414121
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-Description: a Tahopen open source project
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Tahopen Community Edition Project: tahopen-platform-plugin-
+ deployer
+Bundle-SymbolicName: tahopen-platform-plugin-deployer
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.pentaho.osgi.platform.plugin.deployer.api;version="0
+ .1.0";uses:="org.w3c.dom",org.pentaho.osgi.platform.plugin;version="0.1
+ .0"
+Export-Service: org.pentaho.osgi.platform.plugin.deployer.api.PluginFile
+ Handler;osgi.service.blueprint.compname=pluginXmlExternalResourcesHandl
+ er,org.pentaho.osgi.platform.plugin.deployer.api.PluginFileHandler;osgi
+ .service.blueprint.compname=BlueprintFileHandler,org.osgi.service.url.U
+ RLStreamHandlerService;url.handler.protocol=pentaho-platform-plugin,org
+ .pentaho.osgi.platform.plugin.deployer.api.PluginFileHandler;osgi.servi
+ ce.blueprint.compname=PluginLibraryFileHandler,org.pentaho.osgi.platfor
+ m.plugin.deployer.api.PluginFileHandler;osgi.service.blueprint.compname
+ =pluginXmlContentTypesHandler,org.pentaho.osgi.platform.plugin.deployer
+ .api.PluginFileHandler;osgi.service.blueprint.compname=pluginXmlStaticP
+ athsHandler,org.pentaho.osgi.platform.plugin.deployer.api.PluginFileHan
+ dler;osgi.service.blueprint.compname=SpringFileHandler,org.pentaho.osgi
+ .platform.plugin.deployer.api.PluginFileHandler,org.pentaho.osgi.platfo
+ rm.plugin.deployer.api.PluginFileHandler;osgi.service.blueprint.compnam
+ e=pluginXmlLifecycleListenerHandler,org.osgi.service.url.URLStreamHandl
+ erService;url.handler.protocol=pentaho-platform-plugin-file
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: com.google.common.io;version="[32.1,33)",javax.xml.names
+ pace,javax.xml.parsers,javax.xml.transform,javax.xml.transform.dom,java
+ x.xml.transform.stream,javax.xml.xpath,org.apache.commons.io;version="[
+ 1.4,2)",org.apache.felix.fileinstall;version="[3.6,4)",org.apache.karaf
+ .util.maven,org.json.simple;version="[1.1,2)",org.osgi.framework;versio
+ n="[1.8,2)",org.osgi.service.blueprint;version="[1.0.0,2.0.0)",org.osgi
+ .service.url;version="[1.0,2)",org.slf4j;version="[1.7,2)",org.w3c.dom,
+ org.xml.sax
+Import-Service: org.pentaho.osgi.platform.plugin.deployer.api.PluginFile
+ Handler;multiple:=true;availability:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+SCM_BRANCH: master
+Tool: Bnd-3.3.0.201609221906

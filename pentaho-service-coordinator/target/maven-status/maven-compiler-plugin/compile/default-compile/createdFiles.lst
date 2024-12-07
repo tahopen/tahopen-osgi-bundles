@@ -1,0 +1,13 @@
+org/pentaho/platform/servicecoordination/impl/BaseCountdownLatchLifecycleManager$SynchronousExecutor.class
+org/pentaho/platform/servicecoordination/impl/PhaserServiceBarrier.class
+org/pentaho/platform/servicecoordination/api/IServiceBarrierManager.class
+org/pentaho/platform/servicecoordination/api/IServiceBarrierManager$Locator.class
+org/pentaho/platform/servicecoordination/impl/CountdownLatchLifecycleEvent.class
+org/pentaho/platform/servicecoordination/api/IPhasedLifecycleManager.class
+org/pentaho/platform/servicecoordination/impl/BaseCountdownLatchLifecycleManager$EventRunnable.class
+org/pentaho/platform/servicecoordination/api/IServiceBarrier.class
+org/pentaho/platform/servicecoordination/impl/ServiceBarrierManager.class
+org/pentaho/platform/servicecoordination/impl/BaseCountdownLatchLifecycleManager$1.class
+org/pentaho/platform/servicecoordination/impl/BaseCountdownLatchLifecycleManager.class
+org/pentaho/platform/servicecoordination/api/IPhasedLifecycleEvent.class
+org/pentaho/platform/servicecoordination/api/IPhasedLifecycleListener.class

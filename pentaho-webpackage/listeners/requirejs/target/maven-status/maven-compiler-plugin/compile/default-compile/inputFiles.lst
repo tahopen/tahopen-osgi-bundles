@@ -1,0 +1,3 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/listeners/requirejs/src/main/java/org/pentaho/webpackage/extender/requirejs/impl/RequireJsPackageImpl.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/listeners/requirejs/src/main/java/org/pentaho/webpackage/extender/requirejs/impl/osgi/PentahoWebPackageServiceTracker.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webpackage/listeners/requirejs/src/main/java/org/pentaho/webpackage/extender/requirejs/impl/osgi/Activator.java

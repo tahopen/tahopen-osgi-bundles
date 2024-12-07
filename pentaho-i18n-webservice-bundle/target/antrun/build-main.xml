@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <condition property="optimize-javascript-src-dir" value="/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-webservice-bundle/target/transpiledJavascriptOutput">
+    <equals arg2="true" arg1="false"/>
+  </condition>
+  <property name="optimize-javascript-src-dir" value="/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-webservice-bundle/src/main/javascript"/>
+  <condition property="skip.js-transpile" value="false">
+    <equals arg2="true" arg1="false"/>
+  </condition>
+  <property name="skip.js-transpile" value="true"/>
+  <condition property="skip.sass-transpile" value="false">
+    <equals arg2="true" arg1="false"/>
+  </condition>
+  <property name="skip.sass-transpile" value="true"/>
+  <condition property="skip.npm-install" value="false">
+    <equals arg2="true" arg1="false"/>
+  </condition>
+  <condition property="skip.npm-install" value="false">
+    <equals arg2="true" arg1="false"/>
+  </condition>
+  <property name="skip.npm-install" value="true"/>
+  <echo message="optimize-javascript-src-dir = ${optimize-javascript-src-dir}"/>
+  <echo message="skip.js-transpile = ${skip.js-transpile}"/>
+  <echo message="skip.sass-transpile = ${skip.sass-transpile}"/>
+</target>
+</project>

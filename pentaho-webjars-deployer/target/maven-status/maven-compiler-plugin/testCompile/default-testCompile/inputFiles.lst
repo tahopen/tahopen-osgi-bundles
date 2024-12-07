@@ -1,0 +1,4 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webjars-deployer/src/test/java/org/pentaho/osgi/platform/webjars/PentahoWebjarsTransformerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webjars-deployer/src/test/java/org/pentaho/osgi/platform/webjars/utils/RequireJsGeneratorTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webjars-deployer/src/test/java/org/pentaho/osgi/platform/webjars/utils/VersionTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-webjars-deployer/src/test/java/org/pentaho/osgi/platform/webjars/WebjarsURLConnectionTest.java

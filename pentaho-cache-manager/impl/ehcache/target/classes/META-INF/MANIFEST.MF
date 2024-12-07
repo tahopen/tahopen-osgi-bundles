@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1733608639735
+Build-Jdk: 11.0.9
+Built-By: marcio
+Bundle-Activator: org.pentaho.caching.ehcache.Activator
+Bundle-Description: a Tahopen open source project
+Bundle-DocURL: http://www.tahopen.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Tahopen Cache Manager: ehcache Cache Provider
+Bundle-SymbolicName: tahopen-ehcache-provider
+Bundle-Vendor: Tahopen Project
+Bundle-Version: 0.1.0.0-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.pentaho.caching.ehcache;uses:="org.osgi.framework,ne
+ t.sf.ehcache,org.pentaho.caching.api,javax.cache,org.ehcache.jcache,org
+ .pentaho.caching.spi,net.sf.ehcache.config";version="0.1.0.0-SNAPSHOT"
+Export-Service: org.pentaho.caching.api.PentahoCacheProvidingService;pen
+ taho.cache.provider="org.pentaho.caching.ehcache.EhcacheProvidingServic
+ e"
+Implementation-Version: 0.1.0.0-SNAPSHOT
+Import-Package: javax.cache;version="[1.0,2)",net.sf.ehcache;version="[2
+ .8,3)",net.sf.ehcache.config;version="[2.8,3)",org.ehcache.jcache,org.o
+ sgi.framework;version="[1.8,2)",org.osgi.service.blueprint;version="[1.
+ 0.0,2.0.0)",org.pentaho.caching.api;version="[0.1,1)",org.pentaho.cachi
+ ng.spi;version="[0.1,1)"
+SCM_BRANCH: master
+Tool: Bnd-1.50.0

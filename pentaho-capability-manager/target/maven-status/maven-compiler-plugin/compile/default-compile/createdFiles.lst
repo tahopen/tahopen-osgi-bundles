@@ -1,0 +1,4 @@
+org/pentaho/capabilities/api/ICapability.class
+org/pentaho/capabilities/api/ICapabilityManager.class
+org/pentaho/capabilities/api/ICapabilityProvider.class
+org/pentaho/capabilities/impl/DefaultCapabilityManager.class

@@ -1,0 +1,13 @@
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/PlatformPluginBundlingURLConnectionTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlStaticPathsHandlerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/ExceptionPipedInputStreamTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/ManifestUpdaterImplTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/PlatformDeployerBundleListenerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/PlatformPluginDeploymentListenerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/handlers/pluginxml/PluginXmlExternalResourcesHandlerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/PlatformPluginFileURLHandlerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/PluginMetadataImplTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/handlers/PluginLibraryFileHandlerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/BundleStateManagerTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/impl/PluginZipFileProcessorTest.java
+/home/marcio/projetos/tahopen-osgi-bundles/pentaho-platform-plugin-deployer/src/test/java/org/pentaho/osgi/platform/plugin/deployer/api/PluginHandlingExceptionTest.java

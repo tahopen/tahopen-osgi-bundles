@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="tahopen-webpackage-archive-deployer-0.1.0.0-SNAPSHOT">
+    <feature name="tahopen-webpackage-archive-deployer" description="tahopen-webpackage-archive-deployer" version="0.1.0.0-SNAPSHOT">
+        <details>Parent project for Tahopen OSGI Bundles</details>
+        <bundle>mvn:org.tahopen.webpackage/archive-deployer-impl/0.1.0.0-SNAPSHOT</bundle>
+        <bundle dependency="true">mvn:org.tahopen.webpackage/core-api/0.1.0.0-SNAPSHOT</bundle>
+        <bundle dependency="true">mvn:com.googlecode.json-simple/json-simple/1.1.1</bundle>
+        <bundle dependency="true">mvn:commons-io/commons-io/2.11.0</bundle>
+        <bundle dependency="true">mvn:org.apache.commons/commons-compress/1.24.0</bundle>
+    </feature>
+</features>
