@@ -1,9 +1,0 @@
-{
-  "packages": [
-    {
-      "name": "react",
-      "location": "/umd",
-      "main": "react.production.min"
-    }
-  ]
-}

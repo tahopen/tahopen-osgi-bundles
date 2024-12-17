@@ -1,8 +1,0 @@
-{
-  "shim": {
-    "angular-sanitize/angular-sanitize": {
-      "exports": "angular",
-      "deps": ["angular"]
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "packages": [
-    {
-      "name": "mousetrap",
-      "location": "/",
-      "main": "mousetrap.min"
-    }
-  ]
-}

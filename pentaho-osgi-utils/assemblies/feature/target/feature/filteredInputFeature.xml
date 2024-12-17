@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<features name="tahopen-osgi-utils-0.1.0.0-SNAPSHOT" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
-    <feature name='tahopen-osgi-utils' description='tahopen-osgi-utils' version='0.1.0.0-SNAPSHOT'>
-    </feature>
-</features>

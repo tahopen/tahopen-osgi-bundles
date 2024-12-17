@@ -1,6 +1,0 @@
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/listener/AbstractRetryMessageListenerFactoryTest.java
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/listener/AbstractMessageListenerFactoryTest.java
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/protobuf/KafkaProtobufSerializerTest.java
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/protobuf/KafkaProtobufDeserializerTest.java
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/listener/AbstractMessageListenerTest.java
-/home/marcio/projetos/tahopen-osgi-bundles/spring-kafka/api/src/test/java/org/hitachivantara/spring/kafka/listener/AbstractRetryMessageListenerTest.java

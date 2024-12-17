@@ -1,5 +1,0 @@
-org/pentaho/osgi/manager/resource/BundleResourceListener.class
-org/pentaho/osgi/manager/resource/ManagedResourceProvider.class
-org/pentaho/osgi/manager/resource/ManagedResourceHandler.class
-org/pentaho/osgi/manager/resource/api/ResourceProvider.class
-org/pentaho/osgi/manager/resource/api/ResourceHandler.class

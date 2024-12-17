@@ -1,8 +1,0 @@
-{
-  "shim": {
-    "angular-bootstrap/ui-bootstrap-tpls": {
-      "exports": "angular",
-      "deps": ["angular"]
-    }
-  }
-}

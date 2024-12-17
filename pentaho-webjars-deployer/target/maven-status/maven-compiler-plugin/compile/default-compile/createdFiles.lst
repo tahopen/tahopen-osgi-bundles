@@ -1,9 +1,0 @@
-org/pentaho/osgi/platform/webjars/utils/RequireJsGenerator$ArtifactInfo.class
-org/pentaho/osgi/platform/webjars/WebjarsURLConnection$WebjarsTransformer.class
-org/pentaho/osgi/platform/webjars/PentahoWebjarsTransformer.class
-org/pentaho/osgi/platform/webjars/WebjarsURLConnection.class
-org/pentaho/osgi/platform/webjars/WebjarsURLConnection$WebjarsTransformer$CompiledScript.class
-org/pentaho/osgi/platform/webjars/utils/RequireJsGenerator$ModuleInfo.class
-org/pentaho/osgi/platform/webjars/utils/RequireJsGenerator.class
-org/pentaho/osgi/platform/webjars/utils/RequireJsGenerator$VersionParser.class
-org/pentaho/osgi/platform/webjars/WebjarsUrlHandler.class

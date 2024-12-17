@@ -1,8 +1,0 @@
-{
-  "shim": {
-    "angular-route/angular-route": {
-      "exports": "angular",
-      "deps": ["angular"]
-    }
-  }
-}

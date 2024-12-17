@@ -1,9 +1,0 @@
-{
-  "packages": [
-    {
-      "name": "@uirouter/core",
-      "location": "/_bundles",
-      "main": "ui-router-core.min"
-    }
-  ]
-}

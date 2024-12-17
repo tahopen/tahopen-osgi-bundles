@@ -1,8 +1,0 @@
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/impl/LocalizationBundleListener.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/resource/OSGIResourceBundleFactory.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/settings/OSGIResourceNamingConvention.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/impl/LocalizationManager.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/settings/OSGIResourceNameComparator.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/resource/OSGIResourceBundle.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/LocalizationService.java
-/home/marcio/projetos/tahopen-osgi-bundles/pentaho-i18n-bundle/src/main/java/org/pentaho/osgi/i18n/resource/OSGIResourceBundleCacheCallable.java

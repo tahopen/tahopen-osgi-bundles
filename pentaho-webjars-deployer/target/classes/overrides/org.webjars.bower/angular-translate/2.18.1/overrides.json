@@ -1,8 +1,0 @@
-{
-  "shim": {
-    "angular-translate/angular-translate": {
-      "exports": "angular",
-      "deps": ["angular"]
-    }
-  }
-}

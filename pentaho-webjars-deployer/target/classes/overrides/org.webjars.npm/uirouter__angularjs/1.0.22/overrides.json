@@ -1,9 +1,0 @@
-{
-  "packages": [
-    {
-      "name": "@uirouter/angularjs",
-      "location": "/release",
-      "main": "ui-router-angularjs.min"
-    }
-  ]
-}
