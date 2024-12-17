@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1733613914749
+Bnd-LastModified: 1734398796685
 Build-Jdk: 11.0.9
 Built-By: marcio
 Bundle-Description: Parent project for Tahopen OSGI Bundles

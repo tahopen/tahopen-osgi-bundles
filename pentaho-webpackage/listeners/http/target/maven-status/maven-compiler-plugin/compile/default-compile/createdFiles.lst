@@ -1,3 +1,3 @@
 org/pentaho/webpackage/extender/http/impl/PentahoWebPackageResourceMapping.class
-org/pentaho/webpackage/extender/http/impl/osgi/PentahoWebPackageServiceTracker.class
 org/pentaho/webpackage/extender/http/impl/osgi/Activator.class
+org/pentaho/webpackage/extender/http/impl/osgi/PentahoWebPackageServiceTracker.class

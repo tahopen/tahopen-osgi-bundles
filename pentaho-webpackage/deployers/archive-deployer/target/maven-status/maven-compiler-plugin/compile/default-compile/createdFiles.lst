@@ -1,6 +1,6 @@
-org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection.class
 org/pentaho/webpackage/deployer/archive/impl/osgi/Activator.class
-org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection$WebPackageTransformer.class
-org/pentaho/webpackage/deployer/archive/impl/UrlHandler.class
 org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection$WebPackageTransformer$VersionParser.class
 org/pentaho/webpackage/deployer/archive/impl/UrlTransformer.class
+org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection.class
+org/pentaho/webpackage/deployer/archive/impl/WebPackageURLConnection$WebPackageTransformer.class
+org/pentaho/webpackage/deployer/archive/impl/UrlHandler.class

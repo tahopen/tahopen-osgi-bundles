@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1733613903560
+Bnd-LastModified: 1734398764709
 Build-Jdk: 11.0.9
 Built-By: marcio
 Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
@@ -16,22 +16,22 @@ Created-By: Apache Maven Bundle Plugin
 Export-Package: org.pentaho.osgi.platform.plugin.deployer.api;version="0
  .1.0";uses:="org.w3c.dom",org.pentaho.osgi.platform.plugin;version="0.1
  .0"
-Export-Service: org.osgi.service.url.URLStreamHandlerService;url.handler
- .protocol=pentaho-platform-plugin,org.pentaho.osgi.platform.plugin.depl
- oyer.api.PluginFileHandler;osgi.service.blueprint.compname=SpringFileHa
- ndler,org.pentaho.osgi.platform.plugin.deployer.api.PluginFileHandler,o
- rg.pentaho.osgi.platform.plugin.deployer.api.PluginFileHandler;osgi.ser
- vice.blueprint.compname=PluginLibraryFileHandler,org.pentaho.osgi.platf
- orm.plugin.deployer.api.PluginFileHandler;osgi.service.blueprint.compna
- me=pluginXmlExternalResourcesHandler,org.pentaho.osgi.platform.plugin.d
- eployer.api.PluginFileHandler;osgi.service.blueprint.compname=pluginXml
- StaticPathsHandler,org.pentaho.osgi.platform.plugin.deployer.api.Plugin
- FileHandler;osgi.service.blueprint.compname=BlueprintFileHandler,org.pe
- ntaho.osgi.platform.plugin.deployer.api.PluginFileHandler;osgi.service.
- blueprint.compname=pluginXmlContentTypesHandler,org.pentaho.osgi.platfo
- rm.plugin.deployer.api.PluginFileHandler;osgi.service.blueprint.compnam
- e=pluginXmlLifecycleListenerHandler,org.osgi.service.url.URLStreamHandl
- erService;url.handler.protocol=pentaho-platform-plugin-file
+Export-Service: org.pentaho.osgi.platform.plugin.deployer.api.PluginFile
+ Handler;osgi.service.blueprint.compname=SpringFileHandler,org.pentaho.o
+ sgi.platform.plugin.deployer.api.PluginFileHandler;osgi.service.bluepri
+ nt.compname=pluginXmlContentTypesHandler,org.pentaho.osgi.platform.plug
+ in.deployer.api.PluginFileHandler,org.pentaho.osgi.platform.plugin.depl
+ oyer.api.PluginFileHandler;osgi.service.blueprint.compname=pluginXmlSta
+ ticPathsHandler,org.pentaho.osgi.platform.plugin.deployer.api.PluginFil
+ eHandler;osgi.service.blueprint.compname=BlueprintFileHandler,org.osgi.
+ service.url.URLStreamHandlerService;url.handler.protocol=pentaho-platfo
+ rm-plugin,org.pentaho.osgi.platform.plugin.deployer.api.PluginFileHandl
+ er;osgi.service.blueprint.compname=PluginLibraryFileHandler,org.pentaho
+ .osgi.platform.plugin.deployer.api.PluginFileHandler;osgi.service.bluep
+ rint.compname=pluginXmlLifecycleListenerHandler,org.osgi.service.url.UR
+ LStreamHandlerService;url.handler.protocol=pentaho-platform-plugin-file
+ ,org.pentaho.osgi.platform.plugin.deployer.api.PluginFileHandler;osgi.s
+ ervice.blueprint.compname=pluginXmlExternalResourcesHandler
 Implementation-Version: 0.1.0.0-SNAPSHOT
 Import-Package: com.google.common.io;version="[32.1,33)",javax.xml.names
  pace,javax.xml.parsers,javax.xml.transform,javax.xml.transform.dom,java

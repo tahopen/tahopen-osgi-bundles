@@ -1,11 +1,11 @@
+org/pentaho/osgi/objecttunnel/TunnelOutput$ExceptionWrapper.class
+org/pentaho/osgi/objecttunnel/TunnelInput$2.class
+org/pentaho/osgi/objecttunnel/TunnelInput$1.class
+org/pentaho/osgi/objecttunnel/TunnelInput.class
 org/pentaho/osgi/objecttunnel/TunnelOutput.class
 org/pentaho/osgi/objecttunnel/TunnelFactory.class
 org/pentaho/osgi/objecttunnel/TunnelOutput$1.class
-org/pentaho/osgi/objecttunnel/TunnelOutput$ExceptionWrapper.class
 org/pentaho/osgi/objecttunnel/TunneledInputObject.class
-org/pentaho/osgi/objecttunnel/TunnelInput$2.class
-org/pentaho/osgi/objecttunnel/TunnelInput$1.class
 org/pentaho/osgi/objecttunnel/TunnelSerializer.class
 org/pentaho/osgi/objecttunnel/TunnelMarker.class
 org/pentaho/osgi/objecttunnel/TunneledPayload.class
-org/pentaho/osgi/objecttunnel/TunnelInput.class
