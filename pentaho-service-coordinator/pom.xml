@@ -12,7 +12,40 @@
   <packaging>bundle</packaging>
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
   <description>a Tahopen Open Source project</description>  
-  <url>http://www.tahopen.org</url>
+  <url>https://www.tahopen.org</url>
+  
+  <scm>
+    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-buncles.git</connection>
+    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-buncles.git</developerConnection>
+    <url>https://github.com/tahopen/tahopen-osgi-buncles</url>
+  </scm>  
+  
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+      <comments>A business-friendly OSS license</comments>
+    </license>
+  </licenses>
+  
+  <developers>
+    <developer>
+      <name>Bryan Rosander</name>
+      <email>brosander@pentaho.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Nick Baker</name>
+      <email>nbaker@pentaho.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  
   <properties>
     <exam.version>4.1.0</exam.version>
   </properties>
@@ -38,6 +71,7 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
+      <version>2.0.16</version>
     </dependency>
     <dependency>
       <groupId>org.ops4j.pax.exam</groupId>
@@ -60,6 +94,7 @@
     <dependency>
       <groupId>org.ops4j.pax.url</groupId>
       <artifactId>pax-url-aether</artifactId>
+      <version>2.6.14</version>      
       <scope>test</scope>
     </dependency>
     <dependency>
