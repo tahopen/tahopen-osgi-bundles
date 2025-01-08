@@ -6,14 +6,14 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-osgi-bundles</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
 
   <name>Tahopen WebContext Modules</name>
 
   <groupId>org.tahopen.webcontext</groupId>
   <artifactId>tahopen-webcontext-modules</artifactId>
-  <version>0.1.0.0-SNAPSHOT</version>
+  <version>0.1.0.0</version>
 
   <packaging>pom</packaging>
 

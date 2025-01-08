@@ -6,11 +6,12 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-osgi-utils-modules</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
 
   <artifactId>tahopen-osgi-utils-assemblies</artifactId>
   <packaging>pom</packaging>
+  <version>0.1.0.0</version>
 
   <modules>
     <module>feature</module>

@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-osgi-bundles</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
   <artifactId>tahopen-proxy-spring4</artifactId>
   <version>0.1.0.0-SNAPSHOT</version>
