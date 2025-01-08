@@ -11,7 +11,7 @@
   <version>0.1.0.0</version>
   <packaging>bundle</packaging>
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
-  <description>a Tahopen open source project</description>
+  <description>a Tahopen Open Source project</description>  
   <url>http://www.tahopen.org</url>
   <properties>
     <exam.version>4.1.0</exam.version>
