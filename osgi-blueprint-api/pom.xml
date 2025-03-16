@@ -13,6 +13,7 @@
   <groupId>org.tahopen</groupId>
   <artifactId>osgi-blueprint-api-module</artifactId>
   <packaging>bundle</packaging>
+  
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
   <description>Tahopen OSGI Bundles</description>
   <url>https://www.tahopen.org</url>
