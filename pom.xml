@@ -16,9 +16,9 @@
   <url>https://www.tahopen.org</url>
   
   <scm>
-    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-buncles.git</connection>
-    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-buncles.git</developerConnection>
-    <url>https://github.com/tahopen/tahopen-osgi-buncles</url>
+    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-bundles.git</connection>
+    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-bundles.git</developerConnection>
+    <url>https://github.com/tahopen/tahopen-osgi-bundles</url>
   </scm>  
   
   <licenses>
@@ -29,6 +29,7 @@
       <comments>A business-friendly OSS license</comments>
     </license>
   </licenses>
+  
   <developers>
     <developer>
       <name>Bryan Rosander</name>
@@ -37,6 +38,7 @@
         <role>developer</role>
       </roles>
     </developer>
+    
     <developer>
       <name>Nick Baker</name>
       <email>nbaker@pentaho.com</email>
@@ -61,7 +63,7 @@
     <kafka-clients.version>3.4.0</kafka-clients.version>
     <spring-kafka.version>1.3.10.RELEASE</spring-kafka.version>
     <protoc.version>3.11.4</protoc.version>
-    <platform.version>0.1.0.0-SNAPSHOT</platform.version>
+    <platform.version>0.1.0.0</platform.version>
     <spring53.bundle.version>5.3.27_1</spring53.bundle.version>
     <spring43.bundle.version>4.3.23.RELEASE_1</spring43.bundle.version>
     <spring32.bundle.version>3.2.18.RELEASE_1</spring32.bundle.version>
@@ -130,7 +132,7 @@
       </plugin>
 
       <!-- sign key gpg--> 
-<!--
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-gpg-plugin</artifactId>
@@ -145,7 +147,7 @@
           </execution>
         </executions>
       </plugin>
--->
+      
       <!-- publish to Maven Central --> 
       <plugin>
          <groupId>org.sonatype.central</groupId>

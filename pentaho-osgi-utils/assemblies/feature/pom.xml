@@ -10,6 +10,7 @@
   </parent>
 
   <artifactId>tahopen-osgi-utils</artifactId>
+  <version>0.1.0.0</version>
   <packaging>feature</packaging>
 
   <dependencies>

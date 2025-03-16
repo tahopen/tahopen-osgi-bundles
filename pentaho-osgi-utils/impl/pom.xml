@@ -101,7 +101,7 @@
     <dependency>
       <groupId>org.tahopen</groupId>
       <artifactId>tahopen-platform-core</artifactId>
-      <version>${project.version}</version>
+      <version>${project.version}-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
     <dependency>

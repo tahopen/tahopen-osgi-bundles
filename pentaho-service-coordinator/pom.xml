@@ -15,9 +15,9 @@
   <url>https://www.tahopen.org</url>
   
   <scm>
-    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-buncles.git</connection>
-    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-buncles.git</developerConnection>
-    <url>https://github.com/tahopen/tahopen-osgi-buncles</url>
+    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-bundles.git</connection>
+    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-bundles.git</developerConnection>
+    <url>https://github.com/tahopen/tahopen-osgi-bundles</url>
   </scm>  
   
   <licenses>

@@ -13,11 +13,48 @@
   <groupId>org.tahopen</groupId>
   <artifactId>osgi-blueprint-api-module</artifactId>
   <packaging>bundle</packaging>
+  <name>Tahopen Community Edition Project: ${project.artifactId}</name>
+  <description>Tahopen OSGI Bundles</description>
+  <url>https://www.tahopen.org</url>
+  
+  <scm>
+    <connection>scm:git:git://github.com/tahopen/tahopen-osgi-bundles.git</connection>
+    <developerConnection>scm:git:git@github.com:tahopen/tahopen-osgi-bundles.git</developerConnection>
+    <url>https://github.com/tahopen/tahopen-osgi-bundles</url>
+  </scm>  
+  
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+      <comments>A business-friendly OSS license</comments>
+    </license>
+  </licenses>
+  
+  <developers>
+    <developer>
+      <name>Bryan Rosander</name>
+      <email>brosander@pentaho.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    
+    <developer>
+      <name>Nick Baker</name>
+      <email>nbaker@pentaho.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
 
   <dependencies>
     <dependency>
       <groupId>org.apache.aries.blueprint</groupId>
       <artifactId>org.apache.aries.blueprint.api</artifactId>
+      <version>1.0.1</version> 
       <scope>provided</scope>
     </dependency>
     <!-- Test -->

@@ -11,6 +11,7 @@
 
   <groupId>org.tahopen</groupId>
   <artifactId>tahopen-osgi-utils-api</artifactId>
+  <version>0.1.0.0</version>
   <packaging>bundle</packaging>
 
   <dependencies>

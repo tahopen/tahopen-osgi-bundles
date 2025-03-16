@@ -10,13 +10,13 @@ In simplest terms the only Pentaho dependency that can be added to any of the lo
 How to build
 --------------
 
-pentaho-osgi-bundles uses the maven framework. 
+tahopen-osgi-bundles uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
 * Maven, version 3+
 * Java JDK 11
-* This [settings.xml](https://raw.githubusercontent.com/pentaho/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
+* This [settings.xml](https://raw.githubusercontent.com/tahopen/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
 
 #### Building it
 
