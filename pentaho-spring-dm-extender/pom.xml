@@ -16,7 +16,7 @@
   <properties>
     <exam.version>4.1.0</exam.version>
     <!-- <springframework.version>3.2.14.RELEASE</springframework.version> -->
-    <springframework.version>4.3.15.RELEASE</springframework.version>
+    <springframework.version>4.3.20.RELEASE</springframework.version>
   </properties>
   <dependencies>
     <dependency>
