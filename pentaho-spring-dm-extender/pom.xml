@@ -5,17 +5,18 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-osgi-bundles</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
   <artifactId>tahopen-spring-dm-extender</artifactId>
-  <version>0.1.0.0-SNAPSHOT</version>
+  <version>0.1.0.0</version>
   <packaging>bundle</packaging>
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
   <description>a Tahopen open source project</description>
   <url>http://www.tahopen.org</url>
   <properties>
     <exam.version>4.1.0</exam.version>
-    <springframework.version>3.2.14.RELEASE</springframework.version>
+    <!-- <springframework.version>3.2.14.RELEASE</springframework.version> -->
+    <springframework.version>4.3.15.RELEASE</springframework.version>
   </properties>
   <dependencies>
     <dependency>
