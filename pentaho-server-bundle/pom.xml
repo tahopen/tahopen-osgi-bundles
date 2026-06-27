@@ -5,14 +5,14 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-osgi-bundles</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
   <artifactId>tahopen-server-bundle</artifactId>
-  <version>0.1.0.0-SNAPSHOT</version>
+  <version>0.1.0.0</version>
   <packaging>bundle</packaging>
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
-  <description>a Pentaho open source project</description>
-  <url>http://www.pentaho.com</url>
+  <description>a Tahopen open source project</description>
+  <url>https://www.tahopen.org</url>
   <dependencies>
     <dependency>
       <groupId>org.tahopen</groupId>

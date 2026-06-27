@@ -14,7 +14,7 @@
   <description>a Tahopen open source project</description>
   <url>http://www.tahopen.org</url>
   <properties>
-    <mondrian.version>0.1.0.0-SNAPSHOT</mondrian.version>
+    <mondrian.version>0.1.0.0</mondrian.version>
   </properties>
   <dependencies>
     <dependency>
